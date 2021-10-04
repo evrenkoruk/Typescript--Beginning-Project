@@ -1,11 +1,11 @@
-# ProductManagement
+# guncelleme-ekleme-silme-typescript
 
-![anaSAyfa](https://user-images.githubusercontent.com/32361405/72669793-1c4b3000-3a47-11ea-927c-ce7b4666fabb.png)
+![anaSAyfa](https://github.com/evrenkoruk/guncelleme-ekleme-silme-typescript/blob/main/resimler/anasayfa.JPG)
 
-Admin Sayfası
+Ekleme Sayfası
 
-![AdminEkran](https://user-images.githubusercontent.com/32361405/72669801-3127c380-3a47-11ea-86cb-5b060011d93b.png)
+![Ekleme](https://github.com/evrenkoruk/guncelleme-ekleme-silme-typescript/blob/main/resimler/ekleme.JPG)
 
-Menü Düzenleme Sayfası
+Silme Sayfası
 
-![MenuDuzenleme](https://user-images.githubusercontent.com/32361405/72669808-43096680-3a47-11ea-888b-29202bd04c56.png)
+![Silme](https://github.com/evrenkoruk/guncelleme-ekleme-silme-typescript/blob/main/resimler/silme.JPG)
